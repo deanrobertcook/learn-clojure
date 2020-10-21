@@ -1,2 +1,0 @@
-(ns learn-clojurejs.core)
-
